@@ -3,3 +3,4 @@ node_modules
 Socket.io
 uploads/audio/*
 uploads/image/*
+package-lock.json
